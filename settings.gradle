@@ -1,0 +1,4 @@
+rootProject.name = 'KotlinNativeToDoList'
+
+
+enableFeaturePreview('GRADLE_METADATA')
